@@ -13,7 +13,7 @@ It allows users to play their **own IPTV playlists** with full control, smooth p
 ## 📸 King Stream Player App Screenshots
 
 ### IPTV Player for iPhone
-![IPTV Player iPhone Screenshot](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/xx/xx/xx/xxxxxxxx-iphone.png)
+![IPTV Player iPhone Screenshot](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/23/2d/86232d7d-5150-8feb-d968-424c6a062058/KingStreamPlayer1.png/960x442bb.webp)
 
 ### IPTV Player for iPad
 ![IPTV Player iPad Screenshot](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/xx/xx/xx/xxxxxxxx-ipad.png)

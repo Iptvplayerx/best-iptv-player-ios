@@ -185,3 +185,5 @@ King Stream Player is free to download and use.
 ### Does the app collect user data?
 No.  
 King Stream Player does not track users or collect personal data.
+
+Web:  https://kingplayer.org

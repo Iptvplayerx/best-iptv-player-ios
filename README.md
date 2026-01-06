@@ -101,12 +101,6 @@ King Stream Player is a **media player only**.
 
 ---
 
-## ## SEO Keywords  <!-- H2 -->
-
-best iptv player ios, iptv player iphone, iptv player ipad, apple tv iptv player, ios iptv app, m3u iptv player ios, best iptv app for apple devices
-
----
-
 ## ## Conclusion  <!-- H2 -->
 
 **King Stream Player** is one of the best IPTV player apps for **iOS, iPad, and Apple TV**.

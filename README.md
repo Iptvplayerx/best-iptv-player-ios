@@ -1,4 +1,4 @@
-# Best IPTV Player for iOS & iPad (2026)
+# Best IPTV Player for iOS & iPad
 
 **King Stream Player** is a clean, fast, and modern **IPTV player for iOS, iPadOS, and Apple TV**.  
 It allows users to play their **own IPTV playlists** with full control, smooth playback, and **no ads**.

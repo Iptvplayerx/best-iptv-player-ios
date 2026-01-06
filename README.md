@@ -113,3 +113,75 @@ If you are looking for:
 👉 Download King Stream Player from the App Store:  
 https://apps.apple.com/us/app/king-stream-player/id6748822861
 
+## ❓ Frequently Asked Questions (FAQ)
+
+### What is King Stream Player?
+King Stream Player is a modern IPTV player designed for iOS, iPadOS, and Apple TV.  
+It allows users to play their **own IPTV playlists** with smooth performance and no ads.
+
+---
+
+### Does King Stream Player provide IPTV channels?
+No.  
+King Stream Player does **not** provide, host, or sell IPTV channels.
+
+The app works only as a **media player**.  
+Users must add their own M3U or M3U8 playlists from external sources.
+
+---
+
+### Is King Stream Player legal?
+Yes.  
+King Stream Player is legal because it does not include or distribute any content.
+
+Users are responsible for ensuring that the content they stream complies with local laws.
+
+---
+
+### Which playlist formats are supported?
+King Stream Player supports the following playlist formats:
+- M3U  
+- M3U8  
+- Online playlist URLs (HTTP / HTTPS)
+
+---
+
+### Does King Stream Player work on iPhone?
+Yes.  
+The app is fully optimized for iPhone and provides fast loading, smooth playback, and touch-friendly controls.
+
+---
+
+### Is King Stream Player compatible with iPad?
+Yes.  
+On iPad, King Stream Player offers a larger layout, comfortable viewing, and stable IPTV streaming.
+
+---
+
+### Can I use King Stream Player on Apple TV?
+Yes.  
+King Stream Player works on Apple TV and supports remote control navigation and big-screen playback.
+
+---
+
+### Are there any ads in the app?
+No.  
+King Stream Player is completely **ad-free**.
+
+---
+
+### Do I need to create an account?
+No account or login is required.  
+You can start using the app immediately by adding your IPTV playlist.
+
+---
+
+### Is King Stream Player free to use?
+Yes.  
+King Stream Player is free to download and use.
+
+---
+
+### Does the app collect user data?
+No.  
+King Stream Player does not track users or collect personal data.
